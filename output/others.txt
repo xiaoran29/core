@@ -2,25 +2,21 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-10-20 15:48:46,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
-淘,http://221.220.131.58:8012/rtp/239.3.1.249:8001
-淘,http://115.171.216.23:4000/rtp/225.1.8.211:8002
+2026-10-20 23:14:08,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 淘,http://115.171.216.32:4000/rtp/225.1.8.211:8002
 淘,http://114.254.38.234:8888/rtp/239.3.1.249:8001
+淘,http://221.220.131.58:8012/rtp/239.3.1.249:8001
 淘,http://111.196.128.44:20000/rtp/239.3.1.249:8001
-睛彩广场舞,http://221.220.131.58:8012/rtp/239.3.1.128:8001
 睛彩广场舞,http://114.254.38.234:8888/rtp/239.3.1.128:8001
+睛彩广场舞,http://221.220.131.58:8012/rtp/239.3.1.128:8001
 睛彩广场舞,http://111.196.128.44:20000/rtp/239.3.1.128:8001
-先锋乒羽,http://106.59.2.53:55555/rtp/239.200.201.33:4120
-华数,http://221.220.131.58:8012/rtp/239.3.1.236:2000
-华数,http://115.171.216.23:4000/rtp/225.1.8.80:2000
 华数,http://115.171.216.32:4000/rtp/225.1.8.80:2000
 华数,http://114.254.38.234:8888/rtp/239.3.1.236:2000
+华数,http://221.220.131.58:8012/rtp/239.3.1.236:2000
 华数,http://111.196.128.44:20000/rtp/239.3.1.236:2000
-华数动作影院,http://221.220.131.58:8012/rtp/239.3.1.92:4120
-华数动作影院,http://115.171.216.23:4000/rtp/225.1.8.252:4120
 华数动作影院,http://115.171.216.32:4000/rtp/225.1.8.252:4120
 华数动作影院,http://114.254.38.234:8888/rtp/239.3.1.92:4120
+华数动作影院,http://221.220.131.58:8012/rtp/239.3.1.92:4120
 华数动作影院,http://111.196.128.44:20000/rtp/239.3.1.92:4120
 
 
@@ -1078,17 +1074,17 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=2045b04eb320e80d953a098893554b64&wsTime=1792519395
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=81859541545534de4de669b976fd636d&wsTime=1792519395
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=c2ed3d855d139b3580ed1a1619e1326f&wsTime=1792519395
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=b5389b67b1e52bc03dca0966649bbcde&wsTime=1792519395
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=b35951d899f4ab76443ee88ceeb5a39d&wsTime=1792519395
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=4ecd31d4342b69ba41dc545bbbbe15e7&wsTime=1792519395
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=598bbf02f53e7bfb498056f828239290&wsTime=1792519395
-武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=10fead5e65f7e7996d7e8f2c5cb62825&wsTime=1792519395
-睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=e14b91fb6ab6057a88bed6bf1f82b5b8&wsTime=1792519395
-国学,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=e6639753a6cdf97dc1fe2d902fc2fa15&wsTime=1792519395
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=118553282d370aa7c800c99666759609&wsTime=1792519395
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=b2c8307e5c4f8361236907426975954d&wsTime=1792523016
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=016677068bab3f1f2f445b3cdeacc7de&wsTime=1792523016
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=a4e26c9c783e2faef31c04a26e64e8d8&wsTime=1792523016
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=4f3be2c6de3c64b236b345bcd156b2d8&wsTime=1792523016
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=780b4b3b4a9e1b4d92e7b79debb8ef57&wsTime=1792523016
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=f1bb0f5bd7feedb8cfa7089ad7245e81&wsTime=1792523016
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=efa2030f893314441f59d5cc48dff803&wsTime=1792523016
+武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=d0b0119e982e08ccd58c9e1fd00dc514&wsTime=1792523016
+睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=b3e7aa9328a64171243aa6f56abf2494&wsTime=1792523016
+国学,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=5bbdaea5398a8531ed96302e3e8171c9&wsTime=1792523016
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=4f7e8397dd5f2dc5c8a8c6eef586cadf&wsTime=1792523016
 北京卫视超,http://120.211.62.180:8000/hls/35/index.m3u8
 北京卫视超,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 福建海峡卫视,http://r.jdshipin.com/WtYt3
@@ -7054,8 +7050,8 @@ Yuma Channel 73,https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c
 ◆◆◆　https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/assets/subscribe/source/b/favorite/%E8%8F%A9%E6%8F%90%E6%A2%B5%E9%9F%B3.txt
 ◆◆◆　https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/assets/subscribe/source/b/favorite/%E8%AE%B0%C2%B7%E5%BD%95%C2%B7%E7%89%87.txt
 ◆◆◆　https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/assets/subscribe/source/b/favorite/%E8%B1%A1%E6%A3%8B%E5%85%A5%E9%97%A8.txt
+华数卡通,http://115.171.216.23:4000/rtp/225.1.8.240:4120
 SiTV乐游,http://183.164.237.182:8888/rtp/238.1.78.151:7080
-SiTV乐游,http://171.119.206.17:6000/rtp/226.0.2.77:8528
 👨潇然,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1#https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
 20261018 07:40:21,https://vdse.bdstatic.com/h265w2/wz829469158484dbd680668ebe13751dee.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10833817575312438075&vt=-1&svt=-1&cr_max=2&s_score=-1.000000&pt=0&av=17.8&vid=9665890678688409725&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=2&h265_s=1&sl=121&sle=1&split=354659
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
